@@ -4,7 +4,7 @@
 
 This project applies machine learning techniques to forecast corporate bond market returns. Unlike equities, bond price movements are harder to predict due to lower liquidity and limited intraday pricing data. This project investigates whether modern ML models can extract useful predictive signals from historical bond-index time series and improve short-term return forecasting.
 
----
+
 
 ## **Goals**
 
@@ -14,7 +14,7 @@ This project applies machine learning techniques to forecast corporate bond mark
 * Evaluate whether ML outperforms a naive “no-change” benchmark
 * Support investment decisions and risk-management analysis
 
----
+
 
 ## **How It Works**
 
@@ -24,7 +24,7 @@ This project applies machine learning techniques to forecast corporate bond mark
 * LightGBM (Gradient Boosting)
 * Logistic Regression
 
----
+
 
 ## **Feature Engineering**
 
@@ -63,7 +63,7 @@ This project applies machine learning techniques to forecast corporate bond mark
 
 * RSI (Relative Strength Index)
 
----
+
 
 ## **Dataset**
 
@@ -74,7 +74,7 @@ This project applies machine learning techniques to forecast corporate bond mark
 
 Dataset includes raw index values plus all engineered features used for ML forecasting.
 
----
+
 
 ## **Model Evaluation**
 
