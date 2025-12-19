@@ -69,7 +69,7 @@ This project applies machine learning techniques to forecast corporate bond mark
 
 **Source:** BofA Merrill Lynch Corporate Bond Total Return Index
 **Frequency:** Daily
-**Time Period:** *(Add date range, e.g., 1/1/2024–10/1/2025)*
+**Time Period:** *1/1/2024–10/1/2025*
 **Size:** **
 
 Dataset includes raw index values plus all engineered features used for ML forecasting.
